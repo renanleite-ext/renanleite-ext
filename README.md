@@ -2,4 +2,4 @@
 - 👀 I’m interested at all
 - 🌱 I’m currently learning all
 - 💞️ I’m looking to collaborate at all
-- 📫 How to reach me: send me a mensage on slack
+- 📫 How to reach me: send me a mensage on slack `@Renan Leite`
